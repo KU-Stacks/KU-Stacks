@@ -22,6 +22,8 @@
 
 **🔔 걱정마, 쿠링이 알려줄게!** [👉🏽쿠링앱 다운로드](https://ku-ring.onelink.me/Yxhp/598c8775)
 
+> 💖 **쿠링의 스폰서가 되어주세요** 쿠링 서버가 원활하게 돌아갈 수 있도록 스폰서가 되어주세요! [🔗 스폰서하기](https://toss.me/kuringios)
+
 ## 쿠링팀, 더 알아가기
 
 **💬 SNS** [인스타](https://bit.ly/3JyMWMi) |  [카톡플러스친구](https://bit.ly/3LOYHQz) </br>
