@@ -26,6 +26,5 @@
 
 ## 쿠링팀, 더 알아가기
 
-**💬 SNS** [인스타](https://bit.ly/3JyMWMi) |  [카톡플러스친구](https://bit.ly/3LOYHQz) </br>
-**📮 메일** [kuring.korea](mailto:kuring.korea@gmail.com)
-
+[![Instagram](https://img.shields.io/badge/@kuring.konkuk-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://bit.ly/3JyMWMi)
+[![Email](https://img.shields.io/badge/kuring.korea@gmail.com-168de2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kuring.korea@gmail.com)
